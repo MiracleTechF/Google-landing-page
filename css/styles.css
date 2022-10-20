@@ -1,0 +1,101 @@
+h1 {
+  display: inline;
+
+}
+p {
+  display: inline;
+  position: relative;
+  word-spacing: 3%;
+}
+.news {
+  position: relative;
+  left: 25px;
+}
+.YouTube {
+  position: relative;
+  left: 10px;
+}
+.translate {
+  position: relative;
+  left: 20px;
+}
+.maps {
+  position: relative;
+  left: 12px;
+
+}
+.mail {
+  position: relative;
+  right: 150px;
+}
+.googles {
+  position: relative;
+  right: 50px;
+}
+.translates {
+  position: relative;
+  left: 50px;
+}
+.voices {
+  position: relative;
+  left: 150px;
+}
+.fb {
+    position: relative;
+    right: 135px;
+}
+.wassa {
+  position: relative;
+  right: 40px;
+}
+.insta {
+  position: relative;
+  left: 49px
+}
+.git {
+  position: relative;
+  left: 143px;
+}
+
+
+.blue {
+  color: blue;
+  font-size: 110px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.red {
+  color: red;
+  font-size: 80px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.yellow {
+  color: gold;
+  font-size: 80px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.blues {
+  color:blue;
+  font-size: 80px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.green {
+  color: green;
+  font-size: 80px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.reds {
+  color: red;
+  font-size: 80px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+input{
+  border-radius: 120px;
+  width: 500px;
+  height: 35px;
+}
+input[placeholder] {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: gray;
+}
